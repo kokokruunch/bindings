@@ -6,6 +6,7 @@ This repository contains the specifications for each AsyncAPI protocol binding.
 
 * [AMQP binding](./amqp)
 * [AMQP 1.0 binding](./amqp1)
+* [Anypoint MQ binding](./anypointmq)
 * [HTTP binding](./http)
 * [JMS binding](./jms)
 * [Kafka binding](./kafka)
