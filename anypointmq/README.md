@@ -64,6 +64,7 @@ Field Name | Type | Description
 <a name="channelBindingObjectQueueDefaultDeliveryDelay"></a>`queue.defaultDeliveryDelay` | integer | Specifies how long to delay delivery for messages sent to the queue (in milliseconds).
 <a name="channelBindingObjectQueueEncrypted"></a>`queue.encrypted` | boolean | Whether the queue should be encrypted.
 <a name="channelBindingObjectQueueDeadLetter"></a>`queue.dlq` | string | The name of an associated dead letter queue, if required.
+<a name="channelBindingObjectBindingVersion"></a>`bindingVersion` | string | The version of this binding. If omitted, "latest" MUST be assumed.
 
 This object MUST contain only the properties defined above.
 
